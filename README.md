@@ -33,9 +33,8 @@ Instale via requirements.txt:
 ```bash
 pip install -r requirements.txt
 ```
-
-```shell
 ## 📂 Estrutura de Arquivos
+```shell
 streamlit_Fifa23_deploy/
 ├── 📁 datasets/
 │ └── 📄 CLEAN_FIFA23_official_data.csv # Dados brutos
