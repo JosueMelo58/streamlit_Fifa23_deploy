@@ -45,11 +45,11 @@ streamlit_Fifa23_deploy/
 ```
 ## 🚀 Execução do Sistema
 
-# Clone o repositório (substitua pela sua URL)
+Clone o repositório (substitua pela sua URL)
 ```bash
 git clone https://github.com/JosueMelo58/streamlit_Fifa23_deploy
 ```
-# Inicie o servidor Streamlit
+Inicie o servidor Streamlit
 ```bash
 streamlit run 1_🏠_home.py
 ```
